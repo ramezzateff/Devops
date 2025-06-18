@@ -17,20 +17,20 @@ A simple note-taking web application built using **Flask** and **SQLite**, conta
 
 ├── Dockerfile
 ├── app
-│   ├── README.md
-│   ├── __pycache__
-│   │   ├── db.cpython-311.pyc
-│   │   └── logic.cpython-311.pyc
-│   ├── db.py
-│   ├── logic.py
-│   ├── main.py
-│   ├── notes.db
-│   ├── requirements.txt
-│   ├── static
-│   │   └── style.css
-│   └── templates
-│       ├── edit.html
-│       └── index.html
+│ ├── README.md
+│ ├── __pycache__
+│ │ ├── db.cpython-311.pyc
+│ │ └── logic.cpython-311.pyc
+│ ├── db.py
+│ ├── logic.py
+│ ├── main.py
+│ ├── notes.db
+│ ├── requirements.txt
+│ ├── static
+│ │ └── style.css
+│ └── templates
+│     ├── edit.html
+│     └── index.html
 └── docker-compose.yml
 
 
